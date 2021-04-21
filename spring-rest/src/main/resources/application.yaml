@@ -1,0 +1,10 @@
+twitter:
+  token: ${TWITTER_BEARER_TOKEN}
+spring:
+  main:
+    web-application-type: none
+  data:
+    mongodb:
+      database: social-media
+      port: 27017
+      host: localhost
