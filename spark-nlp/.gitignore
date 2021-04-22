@@ -1,0 +1,13 @@
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.idea/
+/project
+.lib/
+.bsp
+spark-mllib_2.11-2.4.5.jar
