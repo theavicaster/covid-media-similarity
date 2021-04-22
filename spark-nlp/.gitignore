@@ -11,3 +11,4 @@ project/plugins/project/
 .lib/
 .bsp
 spark-mllib_2.11-2.4.5.jar
+mongo-spark-connector_2.11-2.4.3.jar

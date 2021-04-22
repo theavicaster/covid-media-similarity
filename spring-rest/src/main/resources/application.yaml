@@ -6,5 +6,4 @@ spring:
   data:
     mongodb:
       database: social-media
-      port: 27017
-      host: localhost
+      uri: ${MONGODB_URI}
